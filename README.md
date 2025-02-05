@@ -16,6 +16,8 @@ The database consists of the following tables:
 
 ### Database Schema
 ER Diagram
+![Uploading image.png…]()
+
 
 ### SQL Scripts
 The 'sql' directory contains SQL scripts for:
