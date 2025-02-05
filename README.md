@@ -16,7 +16,8 @@ The database consists of the following tables:
 
 ### Database Schema
 ER Diagram
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6c4db31c-808e-495c-9faa-f89c61b28056)
+
 
 
 ### SQL Scripts
